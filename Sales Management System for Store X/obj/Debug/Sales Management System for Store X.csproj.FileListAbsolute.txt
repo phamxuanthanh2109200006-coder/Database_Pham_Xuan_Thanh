@@ -1,0 +1,41 @@
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\Sales Management System for Store X.exe.config
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\Sales Management System for Store X.exe
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\Sales Management System for Store X.pdb
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Management System for Store X.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales_Management_System_for_Store_X.Form1.resources
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales_Management_System_for_Store_X.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Management System for Store X.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Management System for Store X.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Management System for Store X.exe
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Management System for Store X.pdb
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Management System for Store X.exe.config
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales_Management_System_for_Store_X.WarehouseDashboard.resources
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales_Management_System_for_Store_X.AdminDashboard.resources
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales_Management_System_for_Store_X.Login.resources
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales_Management_System_for_Store_X.SalesDashboard.resources
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ClosedXML.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\RBush.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ClosedXML.pdb
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ClosedXML.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\RBush.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\source\repos\Sales Management System for Store X\obj\Debug\Sales Ma.7B603CB1.Up2Date

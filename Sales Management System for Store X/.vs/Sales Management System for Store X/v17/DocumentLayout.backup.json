@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\warehousedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:warehousedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\salesdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:salesdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\salesdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:salesdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\salesdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:salesdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|c:\\users\\admin\\source\\repos\\sales management system for store x\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\warehousedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:warehousedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\salesdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:salesdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\warehousedashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C6055-E202-4690-9D4A-30AF6D893FC0}|Sales Management System for Store X.csproj|solutionrelative:warehousedashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.resx",
+              "RelativeDocumentMoniker": "Login.resx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.resx",
+              "RelativeToolTip": "Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-07T09:31:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-07T08:59:45.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.resx",
+              "RelativeDocumentMoniker": "SalesDashboard.resx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.resx",
+              "RelativeToolTip": "SalesDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-07T08:59:24.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\WarehouseDashboard.cs",
+              "RelativeDocumentMoniker": "WarehouseDashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\WarehouseDashboard.cs [Design]",
+              "RelativeToolTip": "WarehouseDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:45:01.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "SalesDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.Designer.cs",
+              "RelativeToolTip": "SalesDashboard.Designer.cs",
+              "ViewState": "AgIAAEUEAAAAAAAAAAAAADgEAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:59:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:54:29.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.cs",
+              "RelativeDocumentMoniker": "SalesDashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.cs [Design]",
+              "RelativeToolTip": "SalesDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:03:25.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:54:35.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:21:34.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAgwP0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:00:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:05:06.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:07:08.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarehouseDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\WarehouseDashboard.cs",
+              "RelativeDocumentMoniker": "WarehouseDashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\WarehouseDashboard.cs",
+              "RelativeToolTip": "WarehouseDashboard.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAkwKcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:46:50.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.cs",
+              "RelativeDocumentMoniker": "SalesDashboard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\SalesDashboard.cs",
+              "RelativeToolTip": "SalesDashboard.cs",
+              "ViewState": "AgIAANAEAAAAAAAAAAAMwOEEAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:42:08.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WarehouseDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\WarehouseDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WarehouseDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Sales Management System for Store X\\WarehouseDashboard.Designer.cs",
+              "RelativeToolTip": "WarehouseDashboard.Designer.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAWwA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:57:55.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
